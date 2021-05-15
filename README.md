@@ -8,7 +8,6 @@
 - 😄 I’m fond of *learning* more and more about **Space** and latest **Technology**.
 - 🚴🏻‍♀️ Fun fact: I *like* **Cycling** and *love* to do **Karate** (*First Dan* - Black Belt)!
 
-<br>
 
 ### 💬 **Connect with me**: 
 <br>
@@ -19,7 +18,6 @@
 <a target="_blank" href="https://github.com/Aaryan-R-S"><img src="https://img.shields.io/badge/-GitHub-303030?style=for-the-badge&logo=github&logoColor=white"></img></a>
 
 
-<br>
 <br>
 
 ### 💻 **Languages and Tools:**  
@@ -43,7 +41,6 @@
 [<img align="left" style="margin:5px" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](a "Terminal")
 <br>
 
-<br>
 
 ###  🚀 **GitHub Overview**
 <div>
