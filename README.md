@@ -1,0 +1,121 @@
+## Hi there, I'm [*Aaryan Raj Saxena*](https://aaryan-r-s.github.io/Portfolio) 👋
+
+![](https://komarev.com/ghpvc/?username=Aaryan-R-S&color=10ba00)
+
+- 👨🏼‍🎓 Student at [**IIIT Delhi**](https://www.iiitd.ac.in/).
+- 🔭 Pursuing my **B.Tech.** (CSE-2024), *First Year*.
+- ⚡ Currently working on [**AngularJS**](https://angularjs.org/) and [**Matlab**](https://in.mathworks.com/discovery/what-is-matlab.html).
+- 😄 I’m fond of *learning* more and more about **Space** and latest **Technology**.
+- 🚴🏻‍♀️ Fun fact: I *like* **Cycling** and *love* to do **Karate** (*First Dan* - Black Belt)!
+
+<br>
+
+### 💬 **Connect with me**: 
+<br>
+<a target="_blank" href="https://aaryan-r-s.github.io/Portfolio"><img src="https://img.shields.io/badge/-Portfolio-9999999?style=for-the-badge&logo=firefox&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/aaryan-raj-saxena-7016a1212"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:aaryan20004@iiitd.ac.in"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/AaryanRS1"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://github.com/Aaryan-R-S"><img src="https://img.shields.io/badge/-GitHub-303030?style=for-the-badge&logo=github&logoColor=white"></img></a>
+
+
+<br>
+<br>
+
+### 💻 **Languages and Tools:**  
+
+[<img align="left" style="margin:5px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](a "VS Code")
+[<img align="left" style="margin:5px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](a "HTML 5")
+[<img align="left" style="margin:5px" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](a "CSS 3")
+[<img align="left" style="margin:5px" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](a "Sass")
+[<img align="left" style="margin:5px" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](a "JavaScript")
+[<img align="left" style="margin:5px" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](a "JavaScript")
+[<img align="left" style="margin:5px;" alt="Bootstrap" width="26px"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">](a "Bootstrap")
+[<img align="left" style="margin:5px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/nodejs/nodejs.png" />](a "Node.js")
+[<img align="left" style="margin:5px" alt="AngularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />](a "Angular JS")
+[<img align="left" style="margin:5px" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](a "MongoDB")
+[<img align="left" style="margin:5px;" alt="Git" width="26px"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">](a "Git")
+[<img align="left" style="margin:5px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](a "GitHub")
+[<img align="left" style="margin:5px;" alt="Python" width="26px"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">](a "Python")
+[<img align="left" style="margin:5px" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](a "MySQL")
+[<img align="left" style="margin:5px;" alt="C++" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">](a "C++")
+[<img align="left" style="margin:5px;" alt="Java" width="26px"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">](a "Java")
+[<img align="left" style="margin:5px" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](a "Terminal")
+<br>
+
+<br>
+<br>
+<br>
+
+###  🚀 **GitHub Overview**
+<div>
+  <a href="https://github.com/Aaryan-R-S">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaryan-R-S&show_icons=true&theme=synthwave&line_height=27&icon_color=b8aec8&custom_title=Aaryan's GitHub Stats" alt="Aaryan's github stats"/>
+  </a>
+</div>
+
+<br>
+
+<div>
+  <a href="https://github.com/Aaryan-R-S">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-R-S&theme=synthwave&langs_count=10&icon_color=b8aec8&text_color=ffffff&custom_title=Top Languages&layout=compact" />
+  </a>
+</div>
+
+<br>
+
+###  ⚡ **Popular Repositories**
+
+<a href="https://github.com/Aaryan-R-S/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Portfolio&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/Aaryan-R-S/Canvas-Projects-Ping-Pong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Canvas-Projects-Ping-Pong&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/Aaryan-R-S/Web-Projects-Hows-That">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Web-Projects-Hows-That&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
+</a>
+
+<br>
+<br>
+
+
+<a href="https://github.com/Aaryan-R-S/Python-Projects-Flappy-Bird">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Python-Projects-Flappy-Bird&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/Aaryan-R-S/Web-Projects-Postman-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Web-Projects-Postman-Clone&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/Aaryan-R-S/Canvas-Projects-Collision-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Canvas-Projects-Collision-Game&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
+</a>
+
+<br>
+<br>
+
+<div align="center">
+
+### *Show some ❤️ by starring some of the repositories that you find helpful and nice!*
+</div>
+
+<br>
+
+<div align="center">
+  <a target="_blank" href="https://aaryan-r-s.github.io/Portfolio"><img src="https://img.shields.io/badge/-Portfolio-9999999?style=for-the-badge&logo=firefox&logoColor=white"></img></a>	
+</div>
