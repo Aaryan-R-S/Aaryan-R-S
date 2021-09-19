@@ -98,8 +98,8 @@
 <br>
 <br>
 
-<a href="https://github.com/Aaryan-R-S/Canvas-Projects-Collision-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Canvas-Projects-Collision-Game&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
+<a href="https://github.com/Aaryan-R-S/Lightning-BFS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Lightning-BFS&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
 </a>
 
 <br>
