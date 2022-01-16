@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=Aaryan-R-S&color=10ba00)
 
 - 👨🏼‍🎓 Student at [**IIIT Delhi**](https://www.iiitd.ac.in/).
-- 🔭 Pursuing my **B.Tech.** (CSE-2024), *First Year*.
-- ⚡ Currently working on [**AngularJS**](https://angularjs.org/) and [**Matlab**](https://in.mathworks.com/discovery/what-is-matlab.html).
+- 🔭 Pursuing my **B.Tech.** in CSE, *Batch of 2024*.
+- ⚡ Currently working on [**AngularJS**](https://angularjs.org/) and [**ReactJS**](https://reactjs.org/).
 - 😄 I’m fond of *learning* more and more about **Space** and latest **Technology**.
 - 🚴🏻‍♀️ Fun fact: I *like* **Cycling** and *love* to do **Karate** (*First Dan* - Black Belt)!
 
@@ -31,6 +31,7 @@
 [<img align="left" style="margin:5px;" alt="Bootstrap" width="26px"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">](a "Bootstrap")
 [<img align="left" style="margin:5px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/nodejs/nodejs.png" />](a "Node.js")
 [<img align="left" style="margin:5px" alt="AngularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />](a "Angular JS")
+[<img align="left" style="margin:5px" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](a "React JS")
 [<img align="left" style="margin:5px" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](a "MongoDB")
 [<img align="left" style="margin:5px;" alt="Git" width="26px"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">](a "Git")
 [<img align="left" style="margin:5px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](a "GitHub")
@@ -84,8 +85,8 @@
 <br>
 
 
-<a href="https://github.com/Aaryan-R-S/Python-Projects-Flappy-Bird">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Python-Projects-Flappy-Bird&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
+<a href="https://github.com/Aaryan-R-S/Sem3-AP-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Sem3-AP-Project&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
 </a>
 
 <br>
@@ -102,6 +103,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Lightning-BFS&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
 </a>
 
+<br>
+<br>
+
+[![Aaryan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aaryan-R-S&theme=react-dark)](https://github.com/Aaryan-R-S)
 <br>
 <br>
 
