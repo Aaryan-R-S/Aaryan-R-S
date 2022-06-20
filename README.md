@@ -2,9 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Aaryan-R-S&color=10ba00)
 
-- 👨🏼‍🎓 Student at [**IIIT Delhi**](https://www.iiitd.ac.in/).
+I enjoy creating things that live on the internet. Currently I'm continuing my B.Tech program in Computer Science and Engineering at IIIT Delhi. My main focus these days is building helpful web projects and practicing Data Structures & Algorithms in the free time of my semesters. In addition, I am also exploring the Web3 space. Here is some more info about me:
+- 👨🏼‍🎓 Currently a student at [**IIIT Delhi**](https://www.iiitd.ac.in/).
 - 🔭 Pursuing my **B.Tech.** in CSE, *Batch of 2024*.
-- ⚡ Currently working on [**AngularJS**](https://angularjs.org/) and [**ReactJS**](https://reactjs.org/).
+- ⚡ Currently working on [**Solidity**](https://docs.soliditylang.org/en/v0.8.15/) and [**ReactJS**](https://reactjs.org/).
 - 😄 I’m fond of *learning* more and more about **Space** and latest **Technology**.
 - 🚴🏻‍♀️ Fun fact: I *like* **Cycling** and *love* to do **Karate** (*First Dan* - Black Belt)!
 
