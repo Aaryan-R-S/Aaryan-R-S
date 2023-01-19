@@ -46,21 +46,21 @@ I enjoy creating things that live on the internet. Currently I'm continuing my B
 <br>
 
 ###  🚀 **GitHub Overview**
-<div>
+<!-- <div>
   <a href="https://github.com/Aaryan-R-S">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaryan-R-S&show_icons=true&theme=synthwave&line_height=27&icon_color=b8aec8&custom_title=Aaryan's GitHub Stats" alt="Aaryan's github stats"/>
   </a>
 </div>
 
-<br>
+<br> -->
 
-<div>
+<!-- <div>
   <a href="https://github.com/Aaryan-R-S">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-R-S&theme=synthwave&langs_count=10&icon_color=b8aec8&text_color=ffffff&custom_title=Top Languages&layout=compact" />
   </a>
 </div>
 
-<br>
+<br> -->
 
 ###  ⚡ **Popular Repositories**
 
