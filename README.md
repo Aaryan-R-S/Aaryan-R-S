@@ -45,7 +45,7 @@ I enjoy creating things that live on the internet. Currently I'm continuing my B
 
 <br>
 
-###  🚀 **GitHub Overview**
+<!-- ###  🚀 **GitHub Overview** -->
 <!-- <div>
   <a href="https://github.com/Aaryan-R-S">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaryan-R-S&show_icons=true&theme=synthwave&line_height=27&icon_color=b8aec8&custom_title=Aaryan's GitHub Stats" alt="Aaryan's github stats"/>
