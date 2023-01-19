@@ -71,7 +71,7 @@ I enjoy creating things that live on the internet. Currently I'm continuing my B
 <br>
 <br>
 
-<a href="https://github.com/Aaryan-R-S/FCS-Project-2022">
+<!-- <a href="https://github.com/Aaryan-R-S/FCS-Project-2022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=FCS-Project-2022&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
 </a>
 
@@ -83,7 +83,7 @@ I enjoy creating things that live on the internet. Currently I'm continuing my B
 </a>
 
 <br>
-<br>
+<br> -->
 
 <a href="https://github.com/Aaryan-R-S/Canvas-Projects-Ping-Pong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-R-S&repo=Canvas-Projects-Ping-Pong&theme=synthwave&icon_color=d30cb8&text_color=b8aec8" />
